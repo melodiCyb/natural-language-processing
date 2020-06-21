@@ -1,4 +1,4 @@
-# NaturalLanguageProcessing
+# Natural Language Processing
 
 CmpE 561
 * Research Project: Text Summarization (LSA)  
